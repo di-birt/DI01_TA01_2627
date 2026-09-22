@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { IonHeader, IonToolbar, IonTitle, IonContent, IonCardHeader, IonCardTitle, IonCardContent, IonCardSubtitle, IonCard, IonNote, IonButton, IonList, IonItem, IonAvatar, IonLabel, IonBadge } from '@ionic/angular/standalone';
+import { IonHeader, IonToolbar, IonTitle, IonContent, IonCardHeader, IonCardTitle, IonCardContent, IonCardSubtitle, IonCard, IonNote, IonButton, IonList, IonItem, IonAvatar, IonLabel, IonBadge } from '@ionic/angular';
 
 @Component({
   selector: 'app-home',
